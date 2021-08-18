@@ -1,0 +1,13 @@
+div{
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+#kolo{
+    background-color: aqua;
+    border-radius: 150px;
+}
+#kwadrat{
+    background-color: bisque;
+    border-top-left-radius: 150px;
+}
